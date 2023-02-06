@@ -1,4 +1,4 @@
-# Scrap_Code
+# Scrap Mutasi Bank BRI
 Berikut adalah contoh script sederhana untuk mengambil data mutasi bank BRI menggunakan PHP dan library cURL
 Script ini menggunakan library cURL untuk melakukan permintaan ke situs bank BRI. Library DOMDocument digunakan untuk parsing data HTML y
 
